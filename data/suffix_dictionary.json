@@ -1,0 +1,23 @@
+{
+  "ing": [
+    "running",
+    "talking",
+    "painting",
+    "singing",
+    "writing"
+  ],
+  "ed": [
+    "started",
+    "finished",
+    "painted",
+    "waited",
+    "jumped"
+  ],
+  "ion": [
+    "action",
+    "creation",
+    "expression",
+    "rotation",
+    "solution"
+  ]
+}
